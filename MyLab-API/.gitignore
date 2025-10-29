@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+
+# Azure build artifacts
+*.zip
+release.zip
+
+# Logs
+*.log
+
+# Misc
+coverage/
+dist/
+tmp/
